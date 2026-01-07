@@ -68,6 +68,7 @@ header.page-header {
     object-position: center;
     border-radius: 10rem;
     max-height: 320rem; 
+    margin-bottom: 20rem;
 }
 
 .logo {
@@ -137,6 +138,7 @@ p {
     color: #2E2E2E;
     margin: 20rem 40rem 20rem 40rem;
     line-height: 1.6;
+    text-align: center; 
 }
 
 b {
@@ -145,24 +147,6 @@ b {
     color: #860b37;
     margin: 20rem 40rem 20rem 40rem;
     line-height: 1.6;
-}
-
-
-h1.poem {
-    color: #860b37;
-    font-size: 30rem;
-    font-weight: bolder;
-    text-align: center; 
-    margin-top: 20rem;
-    margin-bottom: 20rem;
-}
-
-p.poem {
-    color: #860b37;
-    font-size: 24rem;
-    font-style: italic;
-    text-align: center;
-    margin: 40rem 80rem 40rem 80rem;
 }
 
 h1.service {
@@ -183,12 +167,52 @@ p.service {
 }
 
 .footmassage {
-    width: 400rem;
-    height: 400rem;
+    max-width: 400rem;
     border-radius: 10rem;
     margin-bottom: 20rem;
+    box-shadow: 5px 5px 15px 0 rgba(0, 0, 0, 0.19);
 }
 
 .impressum {
     color: #860b37;
+}   
+
+p > .self {
+    max-width: 250rem;
+    text-align: center; 
+    margin: 0 auto;
+    border: 5px solid #860b37;
+    border-radius: 10rem;
+}
+
+.card > p {
+    font-size: 25rem;
+}
+
+p > b {
+    font-size: 28rem;
+}
+
+.contact {
+    text-align: left;
+    font-size: 22rem;
+    color: #2E2E2E;
+    margin: 20rem 40rem 20rem 40rem;
+    line-height: 1.6;
+}
+
+.contact2 {
+    text-align: left;
+    font-size: 22rem;
+    color: #860b37;
+    margin: 20rem 40rem 20rem 40rem;
+    line-height: 1.6;
+}
+
+.contact2 > b {
+    margin: 0;
+}
+
+.logo + h1 + p {
+    font-size: 30rem; 
 }
