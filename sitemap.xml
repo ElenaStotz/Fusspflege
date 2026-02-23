@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://fusspflege-stotz.de/index.html</loc>
+      <lastmod>2026-02-23</lastmod>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://fusspflege-stotz.de/Services.html</loc>
+      <lastmod>2026-02-23</lastmod>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://fusspflege-stotz.de/Contact.html</loc>
+      <lastmod>2026-02-23</lastmod>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://fusspflege-stotz.de/Impressum.html</loc>
+      <lastmod>2026-02-23</lastmod>
+      <priority>0.5</priority>
+   </url>
+</urlset>
